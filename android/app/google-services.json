@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58134236337",
+    "project_id": "formy-98cd0",
+    "storage_bucket": "formy-98cd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58134236337:android:a6769fda59622d4c6e2690",
+        "android_client_info": {
+          "package_name": "com.example.formy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58134236337-tbu0qn31qmufdvaso8c0q8tsbb1q9gsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzMa1T_UwC1gt7Ode8ffKjQGSZM9BgtVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58134236337-tbu0qn31qmufdvaso8c0q8tsbb1q9gsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
